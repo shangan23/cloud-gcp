@@ -42,6 +42,6 @@
   
 - IAM - Identity and Access Management
 
-  Resources -> Projects -> Folders -> Sub Folders -> Organziation Nodes.
+  Resources -> Projects -> Folders -> Organziation Nodes.
 
   
