@@ -41,7 +41,20 @@
   - SDK
   
 - IAM - Identity and Access Management
+   
+  Who can be IAM?
+    - Google Account or Cloud Identity user
+    - Service Account
+    - Google Group
+    - Cloud Identiy or G Suite domain
+  
+  Types of Roles:
+    - Primitive : Fixed coarse-grained level of access. Primitive roles includes Owner,Editor,Viewer and Billing
+    - Predefined : Fine grained permission  
+    - Custom : presise set of permission. Policies can be applied on Project and Organization
 
-  Resources -> Projects -> Folders -> Organziation Nodes.
+  Resources -> Projects -> Folders -> Organziation Nodes. IAM has primitive, predefined and custom roles. Primitive roles includes Owner,Editor,Viewer and Billing.
+  
+  
 
   
