@@ -33,4 +33,15 @@
 
   Physical infrastrucure uses 2% of world's electricity. ISO 1401 certified. Finland has achieved 100% neutral and reusable energy from sea.
   
-- 
+- How many ways to interact with GCP?
+
+  - Mobile APP
+  - Console
+  - Rest API
+  - SDK
+  
+- IAM - Identity and Access Management
+
+  Resources -> Projects -> Folders -> Sub Folders -> Organziation Nodes.
+
+  
