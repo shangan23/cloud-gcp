@@ -67,8 +67,8 @@
   
   Compute engines lets you run VMs on Google global infrastructure. Can reconfigure CPU power, memory, storage..etc.
   
-  What is VPC?
+  - What is VPC?
   
-  Virtual Private Cloud(VPC) networks are global; subnet are regional. A VPC in the region can have subnet ranges to be assigned to resources in different zones of the region. Can dynacmically expand the IP range. 
+    Virtual Private Cloud(VPC) networks are global; subnet are regional. A VPC in the region can have subnet ranges to be assigned to resources in different zones of the region. Can dynacmically expand the IP range. 
 
   
