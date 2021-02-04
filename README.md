@@ -6,11 +6,12 @@
 - What is Cloud Computing?
 
   The US national institute of standrards and technology created it. Cloud computing is way of using IT. It has 5 traits
-  - On-demand self-service
-  - Broad network access
-  - Resource pooling
-  - Rapid elasticity
-  - Measured service
+  
+      - On-demand self-service
+      - Broad network access
+      - Resource pooling
+      - Rapid elasticity
+      - Measured service
   
 # GCP
 - Services offered by GCP?
@@ -35,10 +36,10 @@
   
 - How many ways to interact with GCP?
 
-  - Mobile APP
-  - Console
-  - Rest API
-  - SDK
+      - Mobile APP
+      - Console
+      - Rest API
+      - SDK
   
 ## IAM - Identity and Access Management
    
