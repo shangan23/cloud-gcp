@@ -53,7 +53,8 @@
     - Predefined : Fine grained permission  
     - Custom : presise set of permission. Policies can be applied on Project and Organization
 
-  Resources -> Projects -> Folders -> Organziation Nodes. IAM has primitive, predefined and custom roles. Primitive roles includes Owner,Editor,Viewer and Billing.
+  Hierarchy: 
+    - Resources > Projects > Folders > Organziation Nodes.
   
   
 
