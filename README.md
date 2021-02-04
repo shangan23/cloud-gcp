@@ -63,6 +63,12 @@
    
     - Cloud Marketplace its tool to deploy functional software packages.Some cloud launchers are available on both free and paid versions(mostly third party).  Networking cost is based on the software used. 
   
+  ## VM - Virtual Machine
   
+  Compute engines lets you run VMs on Google global infrastructure. Can reconfigure CPU power, memory, storage..etc.
+  
+  What is VPC?
+  
+  Virtual Private Cloud(VPC) networks are global; subnet are regional. A VPC in the region can have subnet ranges to be assigned to resources in different zones of the region. Can dynacmically expand the IP range. 
 
   
