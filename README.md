@@ -57,11 +57,11 @@
 
   Hierarchy: 
  
-    - Resources > Projects > Folders > Organziation Nodes.
+  - Resources > Projects > Folders > Organziation Nodes.
     
   Cloud Launcher/Marketplace:
    
-    - Cloud Marketplace its tool to deploy functional software packages.Some cloud launchers are available on both free and paid versions(mostly third party).  Networking cost is based on the software used. 
+  - Cloud Marketplace its tool to deploy functional software packages.Some cloud launchers are available on both free and paid versions(mostly third party).  Networking cost is based on the software used. 
   
   ## VM - Virtual Machine
   
