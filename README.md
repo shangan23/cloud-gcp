@@ -40,7 +40,7 @@
   - Rest API
   - SDK
   
-- IAM - Identity and Access Management
+## IAM - Identity and Access Management
    
   Who can be IAM?
     - Google Account or Cloud Identity user
