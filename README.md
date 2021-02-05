@@ -164,4 +164,8 @@
       
       ![Comparing Cloud Storage](https://raw.githubusercontent.com/shangan23/cloud-gcp/main/comparing_storage_options.png)
       
+    - Comparing Storage options usecases:
+    
+      ![Usecases](https://github.com/shangan23/cloud-gcp/blob/main/ComparingStorageOptions.png?raw=true)
+      
  
