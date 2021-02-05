@@ -120,7 +120,11 @@
  - Bucket attributes,
  
     - Globally unique name
-    - Storage class : Coldline for archive purpose(old data)
+    - Storage class : 
+        - Coldline for archive purpose(old data); accessed once a year
+        - Newline for archive purpose(old data); accessed once a month
+        - Regional: Accessed within the region
+        - Multi-Region: Most frequently accessed.
     - Location
     - IAM policies or ACL
     - Object Versioning : if disabled new object overwrite old one
