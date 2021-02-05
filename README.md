@@ -93,5 +93,21 @@
   - VPC peering allows to interconect differnt projects in GCP.
   - Shared VPC can be used with the help of IAM to share network between projects.
   
-  - Cloud Load Balancer
+  - Cloud Load Balancer: Reacts quickly on traffic and users. 
+  
+    Types of Load balancers:
+      - Global HTTP(s)
+      - Global SSL proxy
+      - Global TCP proxy
+      - Regional
+      - Regional Internal
+  - Cloud DNS: A managed DNS server running on the same infrastructure as Google. 
+  - Cloud CDN: Edge caching; using CDN interconnect to connect custom CDNs into GCP.
+    
+    Interconnect Options: 
+    
+    - VPN: No SLAs
+    - Direct Peering : Without internet;No SLAs
+    - Carrier Peering: No SLAs
+    - Dedicated Interconnect: Recommended for 99.9% SLAs
   
