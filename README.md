@@ -129,4 +129,21 @@
     - IAM policies or ACL
     - Object Versioning : if disabled new object overwrite old one
     - Object Lifecycle management rules - Delete object by date 
+    - Upload data to Google Cloud
+        - Online transfer : CMD or browser
+        - Storage tranfer service :  Batch or scheduled 
+        - Transfer Appliance: Leased from Google cloud
+    - Cloud Bigtable
+      
+      NoSQL database service similar to AWS DynamoDB. It is self managed by Google for high availability with low latency, high i/o throughput.
+      Hbase API enabled portability with Bigtable. Self managed Hbase is too risky considering availability, scalability. Bigtable handles upgrades, has IAM permission. Bigtable used by Gmail, Search and Analytics. It can be interacted with GCP services or 3rd party service. 
+      
+      Data can be imported through,
+        
+          - Applicatio API - Hbase API/ Java Hbase client.
+          - Stream - Dataflow, Spark, Storm
+          - Batch - Hadoop MapReduce, Dataflow or Spark
+          
+      Cloud Bigtable as a persistent hashtable - Each item in the database can be sparsely populated, and is looked up with a single key.
+      
  
