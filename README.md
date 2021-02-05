@@ -111,3 +111,18 @@
     - Carrier Peering: No SLAs
     - Dedicated Interconnect: Recommended for 99.9% SLAs
   
+ ## Cloud Storage
+ 
+ - Cloud Storage is equivalent to AWS S3. All files are stored as Object and can be accessed by URLs. It's not a filesystem.
+ - Cloud Storage can be stored and organized in a Bucket. Always encrypts the data at rest. Transfer is through HTTPs.
+ - Roles are inherited to buckets and objects.
+ - Cloud storage are immutable.
+ - Bucket attributes,
+ 
+    - Globally unique name
+    - Storage class : Coldline for archive purpose(old data)
+    - Location
+    - IAM policies or ACL
+    - Object Versioning : if disabled new object overwrite old one
+    - Object Lifecycle management rules - Delete object by date 
+ 
