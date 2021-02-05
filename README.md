@@ -146,4 +146,22 @@
           
       Cloud Bigtable as a persistent hashtable - Each item in the database can be sparsely populated, and is looked up with a single key.
       
+    - Cloud SQL 
+    
+      Relational DB service similar to AWS RDS. Supports vertical and horizondal scalabilty. Zonal replication services read and failover, backup with on demand on schedule. Data encryption is supported. 
+      Each Cloud SQL database is configured at creation time for either MySQL or PostgreSQL. Cloud Spanner uses ANSI SQL 2011 with extensions.
+      
+    - Cloud Spanner
+      
+      Relational DB service similar to AWS RDS. Offers horizontal support, transactional support, replications with throught consistancy. Use case financial and inventory applicaions.
+      Cloud Spanner can scale to petabyte database sizes, while Cloud SQL is limited by the size of the database instances you choose. At the time this quiz was created, the maximum was 10,230 GB.
+      
+     - Cloud Datastore
+     
+       Similar to Bigtable. Highly scalable. Automatically handles Sharding and Replication. SQL like queries. Free daily quota - Read, Write and Deletes.
+       
+    - Comparing Cloud Storage
+      
+      ![Comparing Cloud Storage](https://raw.githubusercontent.com/shangan23/cloud-gcp/main/comparing_storage_options.png)
+      
  
