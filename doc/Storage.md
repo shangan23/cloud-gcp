@@ -49,8 +49,8 @@
        
     - Comparing Cloud Storage
       
-      ![Comparing Cloud Storage](images/ComparingStorageOptions.png)
+      ![Comparing Cloud Storage](../images/ComparingStorageOptions.png)
       
     - Comparing Storage options usecases:
     
-      ![Usecases](images/StorageUsecases.png)
+      ![Usecases](../images/StorageUsecases.png)
