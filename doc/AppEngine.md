@@ -16,11 +16,11 @@ AppEngine comes with two type,
 
 - Standard Vs Flexible Env
 
-!(Standard Vs Flexible)[../images/AppEngineEnvironmentComparison.png]
+![Standard Vs Flexible](../images/AppEngineEnvironmentComparison.png)
 
 - App Engine Vs Kubernetes Engine
 
-!(App Vs Kubernetes)[../images/AppEngineEnvironmentComparison.png]
+![App Vs Kubernetes](../images/AppEngineEnvironmentComparison.png)
 
 ## Apigee Edge
 You want to gradually decompose a pre-existing monolithic application, not implemented in GCP, into microservices. You want to do business analytics and billing on a customer-facing API. 
