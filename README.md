@@ -40,7 +40,9 @@
       - Console
       - Rest API
       - SDK
-  
+
+  ## Services in GCP:
+
   - [Identity and Access Management](doc/IAM.md)
   
   - [ComputeEngine](doc/ComputeEngine.md)
@@ -50,5 +52,7 @@
   - [Containers](doc/Containers.md)
 
   - [AppEngine](doc/AppEngine.md)
+
+  - [Develope, Deploy and Monitor](doc/DevelopDeployMonitor.md)
       
  
