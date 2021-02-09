@@ -41,12 +41,14 @@
       - Rest API
       - SDK
   
-  - [IAM - Identity and Access Management](doc/IAM.md)
+  - [Identity and Access Management](doc/IAM.md)
   
-  - [VM - Virtual Machine](doc/VM.md)
+  - [ComputeEngine](doc/ComputeEngine.md)
   
   - [Cloud Storage](doc/Storage.md)
 
   - [Containers](doc/Containers.md)
+
+  - [AppEngine](doc/AppEngine.md)
       
  
