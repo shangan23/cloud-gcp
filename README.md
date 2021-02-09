@@ -44,11 +44,11 @@
   ## Introduction to Core Services in GCP:
 
   - [Identity and Access Management](doc/IAM.md)
-  - [ComputeEngine](doc/ComputeEngine.md)
+  - [Compute Engine](doc/ComputeEngine.md)
   - [Cloud Storage](doc/Storage.md)
-  - [Containers](doc/Containers.md)
-  - [AppEngine](doc/AppEngine.md)
-  - [Develope, Deploy and Monitor](doc/DevelopDeployMonitor.md)
+  - [Kubernetes Engine](doc/Containers.md)
+  - [App Engine](doc/AppEngine.md)
+  - [Develop, Deploy and Monitor](doc/DevelopDeployMonitor.md)
   - [Big Data and Machine Learning](doc/BigDataML.md)
       
  
