@@ -41,7 +41,7 @@
       - Rest API
       - SDK
 
-  ## Introduction to Core Services in GCP:
+  ## Introduction to Core Services:
 
   - [Identity and Access Management](doc/IAM.md)
   - [Compute Engine](doc/ComputeEngine.md)
@@ -50,5 +50,10 @@
   - [App Engine](doc/AppEngine.md)
   - [Develop, Deploy and Monitor](doc/DevelopDeployMonitor.md)
   - [Big Data and Machine Learning](doc/BigDataML.md)
+
+  ## Cloud Infrastructure:
+
+  - ![Virtual Networks](doc/VirtualNetworks.md)
+  - ![Virtual Machine](doc/VirtualMachine.md)  
       
  
