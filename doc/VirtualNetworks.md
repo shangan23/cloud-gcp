@@ -67,7 +67,7 @@ External IP addresses: Can allow to hosts outside of the project. User can conne
 
 Alias IP ranges: Assign a range of internal ip address as aliases to a VM's network interface using alias IP range.
 
-!(Alias IP ranges)[../images/AliasIPRange.png]
+![Alias IP ranges](../images/AliasIPRange.png)
 
 - Cloud DNS: Mananged domain name server with 100% uptime. 
 
@@ -82,9 +82,9 @@ When a VM is created the ephemeral external IP address is assigned from a pool. 
  
 ## Pricing
 
-!(Network Pricing)[../images/NetworkPricing.png]
+![Network Pricing](../images/NetworkPricing.png)
 
-!(External IP Pricing)[../images/ExternalIPAddressPricing.png]
+![External IP Pricing](../images/ExternalIPAddressPricing.png)
 
 
 ## Common Network Design
