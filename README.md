@@ -53,7 +53,6 @@
 
   ## Cloud Infrastructure:
 
-  - ![Virtual Networks](doc/VirtualNetworks.md)
-  - ![Virtual Machine](doc/VirtualMachine.md)  
+  - [Virtual Networks](doc/VirtualNetworks.md)
       
  
